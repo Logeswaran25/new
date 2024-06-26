@@ -1,0 +1,664 @@
+[
+    {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹2/8 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["0.25"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qvZLK53b/1.png "
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹5/10",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["0.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SQ7fds9z/2.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹3/6",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["0.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/4yBtgYvL/3.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide 6.00/2",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["3.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/YjBctSpF/4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹8.00/4",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["2.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/gc8mT9ch/5.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹12.00/6 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["2.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/W4xc58QS/6.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹15.00/5",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["3.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Gm20r6Rq/7.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹18.00/9",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["2.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/0yr4hmG4/8.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide 24.00/8",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["3.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/RZz3DQzS/9.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹30.00/10",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["3.00"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/W12r5Lrp/10.pngcxx"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹15/6 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["2.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/C1wW1KfT/11.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹67/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["33.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/d18rWqW1/12.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹67/3 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["22.33"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/9Qr96Pxs/13.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹91/3",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["30.33"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/4dbH6WdH/14.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹55/3 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["18.33"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/wjC1nCRs/15.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide  ₹39/4",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["9.75"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/3rtd34Dh/16.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹53/5",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["10.60"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/zGBQ4MY5/17.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹67/6 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["11.16"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/28fbcRvb/18.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹55/8 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["6.87"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/3Rcj4Lbj/19.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹72/10 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["7.20"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/cJJXv8LS/20.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹58/11 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["5.27"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/DyZZYv0z/21.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹69/13 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["5.31"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/rpb3c9Cb/22.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹45/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["22.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/CKYd7jf3/23.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹39/2",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["19.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QxTtr6gL/24.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹37/2",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["18.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/6QmqXFPX/25.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹55/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["27.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/brQw1rwy/26.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹89/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["44.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8zsVSsg7/27.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹57/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["28.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/653P7SjS/28.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹61/2",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["30.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/jd4zbd4Y/29.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Divide ₹63/2 ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["31.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/wjFZ7zHS/30.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Divide money amounts "
+  }
+
+]
+  

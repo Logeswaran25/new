@@ -1,0 +1,663 @@
+[
+    {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the stationery shop, Rohan bought a notebook for ₹75 and a pen for ₹25. How much more did the notebook cost than the pen?",
+      "frontunit": "₹",
+      "unit": "https://i.postimg.cc/sX8jqWBD/1.png",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["50"]
+    },
+    "explanation": {
+      "imageUrl": ""
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the market, Priya bought a basket of fruits for ₹150 and a pack of juice for ₹80. How much more did the basket of fruits cost than the pack of juice?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["70"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Bncx3SBG/2.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the toy store, Ravi bought a teddy bear for ₹200 and a toy car for ₹120. How much more did the teddy bear cost than the toy car?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["80"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/RZDH1g9N/3.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bakery, Aisha bought a cake for ₹300 and a box of cookies for ₹150. How much more did the cake cost than the box of cookies?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["150"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PqwDr1D9/4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bookstore, Raju bought a novel for ₹180 and a magazine for ₹50. How much more did the novel cost than the magazine?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["130"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/BvBqg6ft/5.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the grocery store, Maya bought a bag of rice for ₹250 and a bottle of oil for ₹100. How much more did the bag of rice cost than the bottle of oil?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["150"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/jjxVR4Bd/6.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the stationery shop, Rahul bought a calculator for ₹400 and a pack of pencils for ₹50. How much more did the calculator cost than the pack of pencils?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["350"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Z5PdPRWs/Add-and-subtract-money-amounts-word-problems.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the market, Anjali bought a bunch of bananas for ₹80 and a watermelon for ₹120. How much more did the watermelon cost than the bunch of bananas?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["40"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/DZWbVpFS/8.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the toy store, Karan bought a board game for ₹500 and a puzzle for ₹150. How much more did the board game cost than the puzzle?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["350"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/m2NYbqxq/9.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bakery, Nisha bought a birthday cake for ₹600 and a pack of cupcakes for ₹200. How much more did the birthday cake cost than the pack of cupcakes?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["400"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/kGC2zJ55/10.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the grocery store, Priya bought a bag of rice for ₹120 and a pack of lentils for ₹40. How much more did the bag of rice cost than the pack of lentils?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["80"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qvj4089x/11.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the toy store, Arjun bought a teddy bear for ₹200 and a toy car for ₹100. How much more did the teddy bear cost than the toy car?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["100"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SKg5t4ny/12.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bakery, Nisha bought a cake for ₹300 and a box of cookies for ₹80. How much more did the cake cost than the box of cookies?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["220"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/tJcnrsjh/13.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the market, Rohit bought a basket of fruits for ₹150 and a bunch of bananas for ₹50. How much more did the basket of fruits cost than the bunch of bananas?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["100"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/NGNQ3hrP/14.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the grocery store, Rina bought a bag of rice for ₹180 and a pack of lentils for ₹60. How much more did the bag of rice cost than the pack of lentils?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["240"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/gkCbpGc4/15.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the stationery shop, Raj bought a set of markers for ₹90 and a notebook for ₹30. How much more did the set of markers cost than the notebook?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["60"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qMXSPyYB/16.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the hardware store, Tina bought a hammer for ₹200 and a screwdriver for ₹80. How much more did the hammer cost than the screwdriver?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["120"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/ydsSbqS8/17.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the gift shop, Ankit bought a plush toy for ₹150 and a greeting card for ₹20. How much more did the plush toy cost than the greeting card?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["130"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/GhHzQYCS/18.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the electronics store, Maya bought a pair of headphones for ₹500 and a USB cable for ₹50. How much more did the pair of headphones cost than the USB cable?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["450"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QCkBgfMW/19.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the pet store, Ravi bought a bag of dog food for ₹300 and a chew toy for ₹80. How much more did the bag of dog food cost than the chew toy?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["220"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/v8LDNSQ4/20.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the supermarket, Neha bought a bottle of shampoo for ₹120 and a bar of soap for ₹30. How much more did the bottle of shampoo cost than the bar of soap?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["90"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/NMThzVmL/21.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the hardware store, Sameer bought a hammer for ₹300 and a set of screws for ₹50. How much more did the hammer cost than the set of screws?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["350"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/d0r4PKNM/22.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bookstore, Rishi bought a hardcover book for ₹250 and a paperback for ₹100. How much more did the hardcover book cost than the paperback?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["350"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/dVrWkSgj/23.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the stationery shop, Priya bought a set of coloured pencils for ₹100 and a sketchbook for ₹80. How much more did the set of coloured pencils cost than the sketchbook?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["20"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/9MnPNGvf/24.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the hardware store, Ritu bought a drill machine for ₹1000 and a set of screws for ₹50. How much more did the drill machine cost than the set of screws?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["950"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/TPZgVRmy/25.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the bookshop, Rohit bought a novel for ₹150 and a magazine for ₹30. How much more did the novel cost than the magazine?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["120"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/6QRyNC23/26.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the grocery store, Priyanka bought a bag of rice for ₹200 and a pack of pasta for ₹80. How much more did the bag of rice cost than the pack of pasta?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["120"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/2y50Jkcz/27.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the electronics store, Raju bought a mobile phone for ₹15000 and a pair of headphones for ₹500. How much more did the mobile phone cost than the pair of headphones?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["14500"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/nzmdfSZW/28.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the stationery shop, Kavita bought a calculator for ₹200 and a ruler for ₹20. How much more did the calculator cost than the ruler?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["180"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/6pTfNbfh/29.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "At the grocery store, Ramesh bought a bag of flour for ₹120 and a pack of sugar for ₹50. How much more did the bag of flour cost than the pack of sugar?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["70"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PJ9YfT4z/30.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts: word problems"
+  }
+]
+  

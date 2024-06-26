@@ -1,0 +1,884 @@
+[
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 58?,364 is rounded to the nearest thousand, the result is 58?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","3"]
+    },
+    "correctAnswer": ["3"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "58?,364"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 6. As a result, we will be rounding down. So, 58?,364 rounds down to 58?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 3 after being rounded down, the missing digit must be 3."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 91?,825  is rounded to the nearest thousand, the result is 92?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","8","1"]
+    },
+    "correctAnswer": ["8"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "91?,825"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 2. As a result, we will be rounding down. So,91?,825   rounds down to 92?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 8 after being rounded down, the missing digit must be 8."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 15?,497   is rounded to the nearest thousand, the result is 16?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["8","3","1","9"]
+    },
+    "correctAnswer": ["9"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "15?,497"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 4. As a result, we will be rounding up. So, 15?,497 rounds up to 16?,000"
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 9 after being rounded up, the missing digit must be 9."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 83?276 is rounded to the nearest thousand, the result is 83?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["8","3","1","2"]
+    },
+    "correctAnswer": ["2"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "83?,276"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 7. As a result, we will be rounding down. So, 83?,276,   rounds down to 83?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 2 after being rounded down, the missing digit must be 2."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 22?,899  is rounded to the nearest thousand, the result is 23?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","5"]
+    },
+    "correctAnswer": ["2"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "22?,899"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 9. As a result, we will be rounding down. So, 22?,899  rounds down to 23?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 2 after being rounded down, the missing digit must be 2."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 36?,532   is rounded to the nearest thousand, the result is 37?,000,  what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["4","8","7","5"]
+    },
+    "correctAnswer": ["5"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "36?,532"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 3. As a result, we will be rounding down. So, 36?,532  rounds down to 37?,000"
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 5 after being rounded down, the missing digit must be 5."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 47?,621 is rounded to the nearest thousand, the result is 48?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","10"]
+    },
+    "correctAnswer": ["7"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "47?,621"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 6. As a result, we will be rounding down. So, 47?,621  rounds down to 48?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 7 after being rounded down, the missing digit must be 7."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 62?,178 is rounded to the nearest thousand, the result is is 62?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","1"]
+    },
+    "correctAnswer": ["1"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "62?,178"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 7. As a result, we will be rounding down. So, , 62?,178  rounds down to , 62?,178"
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 1 after being rounded down, the missing digit must be 1."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 84?,423  is rounded to the nearest thousand, the result is 84?,000,  what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","9"]
+    },
+    "correctAnswer": ["4"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "84?,423"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 2. As a result, we will be rounding down. So, 84?,423  rounds down to 84?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 4 after being rounded down, the missing digit must be 4."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If when 19?,732  is rounded to the nearest thousand, the result is 20?,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2","4","7","5"]
+    },
+    "correctAnswer": ["7"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "19?,732"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 3. As a result, we will be rounding down. So, 19?,732 rounds down to 20?,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 7 after being rounded down, the missing digit must be 7."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 8,240 is the result when 8,24? is rounded to the nearest hundred"
+    },
+    "answerType": {
+      "select": ["7", "9", "4", "3"]
+    },
+    "correctAnswer": ["4"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundreds place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "8,24?"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 0. As a result, we will be rounding down. So, 8,24? rounds down to 8,240."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 4 after being rounded down, the missing digit must be 4."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true?  3,195 is the result when 3,19?2 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["9", "1", "10", "6"]
+    },
+    "correctAnswer": ["9"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "3,19?2"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, 3,19?2 rounds up to 3,195."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 9 after being rounded up, the missing digit must be 9."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 6,830 is the result when 6,83?9 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["78", "3", "2", "8"]
+    },
+    "correctAnswer": ["3"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "6,83?9"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 0. As a result, we will be rounding down. So, 6,83?9 rounds down to 6,830."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 3 after being rounded down, the missing digit must be 3."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 1,975 is the result when 1,97?6 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["4", "2", "8", "9"]
+    },
+    "correctAnswer": ["9"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "1,97?6"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, 1,97?6 rounds up to 1,975."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 9 after being rounded up, the missing digit must be 9."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 4,850 is the result when 4,85?9 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["5", "2", "8", "1"]
+    },
+    "correctAnswer": ["5"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "4,85?9"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 0. As a result, we will be rounding down. So, 4,85?9 rounds down to 4,850."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 5 after being rounded down, the missing digit must be 5."
+      }
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 3,409 is the result when 3,40?9 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["1", "4", "8", "6"]
+    },
+    "correctAnswer": ["4"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "3,40?9"
+      },
+      "explanation3": {
+        "text":"The digit one place to the right is a 5. As a result, we will be rounding up. So, 3,40?9 rounds up to 3,409."
+      },
+      "explanation4": {
+        "text":"Because the missing digit becomes 4 after being rounded up, the missing digit must be 4."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true?5,260 is the result when 5,26?8 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["3", "9", "8", "6"]
+    },
+    "correctAnswer": ["6"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "5,26?8"
+      },
+      "explanation3": {
+        "text":"The digit one place to the right is a 5. As a result, we will be rounding up. So, 5,26?8 rounds up to 5,260."
+      },
+      "explanation4": {
+        "text":"Because the missing digit becomes 6 after being rounded up, the missing digit must be 6."
+      }
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 2,721 is the result when 2,72?8 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["4", "0", "7", "2"]
+    },
+    "correctAnswer": ["7"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "2,72?8"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, 2,72?8 rounds up to 2,721."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 7 after being rounded up, the missing digit must be 7."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 9,630 is the result when 9,63?8 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["2", "8", "4", "1"]
+    },
+    "correctAnswer": ["4"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "9,63?8"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, 9,63?8 rounds up to 9,630"
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 4 after being rounded up, the missing digit must be 4."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which digit makes this statement true? 7,880 is the result when 7,88?6 is rounded to the nearest ten."
+    },
+    "answerType": {
+      "select": ["8", "2", "9", "5"]
+    },
+    "correctAnswer": ["8"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the tens place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "7,88?6"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, 7,88?6 rounds up to 7,880."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 8 after being rounded up, the missing digit must be 8."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?74,820 rounded to the nearest hundred thousand is 800,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2", "3", "7", "8"]
+    },
+    "correctAnswer": ["7"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundred-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?74,820"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is an 8. As a result, we will be rounding up. So, ?74,820 rounds up to 800,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 8 after being rounded up, the missing digit must be 7."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?23,460 rounded to the nearest hundred thousand is 100,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["9", "1", "3", "8"]
+    },
+    "correctAnswer": ["1"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundred-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?23,460"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 4. As a result, we will be rounding up. So, ?23,460 rounds up to 100,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 0 after being rounded up, the missing digit must be 1."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?89,985 rounded to the nearest hundred thousand is 900,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["4", "0", "8", "2"]
+    },
+    "correctAnswer": ["8"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundred-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?89,985"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 9. As a result, we will be rounding up. So, ?89,985 rounds up to 900,000"
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 9 after being rounded up, the missing digit must be 8."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?37,610 rounded to the nearest hundred thousand is 0, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["0", "7", "4", "2"]
+    },
+    "correctAnswer": ["0"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundred-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?37,610"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 1. As a result, we will be rounding down. So, ?37,610 rounds down to 0."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 0 after being rounded down, the missing digit must be 0."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?56,552 rounded to the nearest hundred thousand is 600,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["8", "1", "2", "5"]
+    },
+    "correctAnswer": ["5"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the hundred-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?56,552"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 5. As a result, we will be rounding up. So, ?56,552 rounds up to 600,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 6 after being rounded up, the missing digit must be 5."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?0,477 rounded to the nearest ten thousand is 50,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["7", "5", "6", "1"]
+    },
+    "correctAnswer": ["5"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the ten-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?0,477"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 0. As a result, we will be rounding down. So, ?0,477 rounds down to 50,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 5 after being rounded down, the missing digit must be 5."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?0,322 rounded to the nearest ten thousand is 40,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["9", "3", "9", "4"]
+    },
+    "correctAnswer": ["4"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the ten-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?0,322"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 3. As a result, we will be rounding up. So, ?0,322 rounds up to 40,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 4 after being rounded up, the missing digit must be 4."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?0,899 rounded to the nearest ten thousand is 90,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["2", "9", "6", "8"]
+    },
+    "correctAnswer": ["9"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the ten-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?0,899"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 9. As a result, we will be rounding up. So, ?0,899 rounds up to 90,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 0 after being rounded up, the missing digit must be 9."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?0,234 rounded to the nearest ten thousand is 20,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["7", "1", "3", "2"]
+    },
+    "correctAnswer": ["2"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the ten-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?0,234"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 3. As a result, we will be rounding down. So, ?0,234 rounds down to 20,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 2 after being rounded down, the missing digit must be 2."
+      }
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "If ?0,766 rounded to the nearest ten thousand is 80,000, what could be the missing digit?"
+    },
+    "answerType": {
+      "select": ["8", "2", "1", "9"]
+    },
+    "correctAnswer": ["8"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "You want to round to the ten-thousands place, so look one place to the right:"
+      },
+      "explanation2": {
+        "text": "?0,766"
+      },
+      "explanation3": {
+        "text": "The digit one place to the right is a 6. As a result, we will be rounding up. So, ?0,766 rounds up to 80,000."
+      },
+      "explanation4": {
+        "text": "Because the missing digit becomes 8 after being rounded up, the missing digit must be 8."
+      }
+    }
+  }
+  ]

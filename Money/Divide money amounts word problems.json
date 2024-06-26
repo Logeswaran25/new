@@ -1,0 +1,662 @@
+[
+  {
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "6 notebooks cost ₹480. If all the notebooks cost the same amount, how much does each notebook cost? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["80"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/GmcBfj2X/1.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "10 movie tickets cost ₹1,500. If all the tickets cost the same amount, how much does each ticket cost?  ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["150"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/x82jz0N6/2.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "5 bags of rice cost ₹625. If all the bags cost the same amount, how much does each bag of rice cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["125"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/ryNMH2rL/3.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "12 pencils cost ₹84. If all the pencils cost the same amount, how much does each pencil cost? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["7"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/2y8JJJsz/4.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "4 boxes of chocolates cost ₹320. If all the boxes cost the same amount, how much does each box of chocolates cost? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["80"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/HnxZ3MMn/5.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "15 bottles of water cost ₹180. If all the bottles cost the same amount, how much does each bottle of water cost? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["12"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/K8rrhctx/6.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "9 T-shirts cost ₹1,440. If all the T-shirts cost the same amount, how much does each T-shirt cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["160"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/mgXkH0s7/7.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "7 pizzas cost ₹560. If all the pizzas cost the same amount, how much does each pizza cost? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["80"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/tCDCKL78/8.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "20 notebooks cost ₹300. If all the notebooks cost the same amount, how much does each notebook cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["15"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/bYghr18t/9.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "6 pairs of shoes cost ₹1,800. If all the pairs of shoes cost the same amount, how much does each pair of shoes cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["300"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/qvhV1YKs/10.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A box contains 24 chocolates. If the total cost of the box is ₹480, how much does each chocolate cost",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["20"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/d3v4D7KC/11.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "An office bought 10 new chairs for ₹5,000. How much does each chair cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["500"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/tTggbksn/12.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A pack of 15 markers costs ₹150. How much does each marker cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["10"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/wBw6wNwq/13.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A family spent ₹240 on 8 movie tickets. How much does each movie ticket cost",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["30"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/CM3fCyZv/14.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A farmer bought 30 sacks of fertilizer for ₹6,000. How much does each sack of fertilizer cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["200"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/2591VgR7/15.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A carton contains 18 bottles of juice. If the total cost of the carton is ₹270, how much does each bottle of juice cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["15"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/QC1CYtBf/16.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A pack of 20 pens costs ₹200. How much does each pen cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["10"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/q7F7knym/17.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A box contains 12 packets of chips. If the total cost of the box is ₹240, how much does each packet of chips cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["20"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/Xqk3yyB6/18.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A store bought 40 boxes of pencils for ₹2,400. How much does each box of pencils cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["60"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/Hkhm5mnn/19.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A store bought 20 packs of crayons for ₹600. How much does each pack of crayons cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["30"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/9M3j8BGj/20.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "An art store purchased 25 canvases for ₹750. How much does each canvas cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["30"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/hvfbXV5f/21.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A package of 30 coloured pencils costs ₹300. How much does each coloured pencil cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["10"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/bNS98Hn5/22.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A baker bought 15 bags of flour for ₹600. How much does each bag of flour cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["40"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/mZJ7dzny/23.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A hardware store bought 35 boxes of nails for ₹700. How much does each box of nails cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["20"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/nzMQ2pYW/24.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A pack of 50 markers costs ₹200. How much does each marker cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["4"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/gcZD8bcJ/25.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A school purchased 30 calculators for ₹1,500. How much does each calculator cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["50"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/R0h10jbv/26.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A store purchased 40 packets of pencils for ₹1,200. How much does each packet of pencils cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["30"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/7PzLkm9d/27.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "An office bought 25 chairs for ₹5,000. How much does each chair cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["200"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/NjjY548g/28.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A farmer bought 20 sacks of fertilizer for ₹800. How much does each sack of fertilizer cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["40"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/sf4t7Wg1/29.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+},
+{
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "A pack of 60 markers costs ₹360. How much does each marker cost?",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["6"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/DwJjj4nr/30.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Divide money amounts: word problems"
+}
+]

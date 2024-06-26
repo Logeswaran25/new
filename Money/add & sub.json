@@ -1,0 +1,663 @@
+[
+    {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹720 + ₹348",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["1068"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/gjVyYwKD/1.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹413 + ₹567",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["980"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/25pksmGz/2.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹625 + ₹291",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["916"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Qt83DMTr/3.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹847 + ₹426",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["1273"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/T3cx4mKc/4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹539 + ₹382",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["921"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/7ZJ71HbD/5.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹723 + ₹195",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["918"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/1XPhB3yd/6.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹631 + ₹576",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["1207"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/zGkjHDQB/7.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹298 + ₹424",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["722"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Ssbx0qy6/8.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹513 + ₹639",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["1152"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/28sJ75T7/9.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹865 +  ₹297",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["1162"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/BbMFQtb9/10.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹12.87 - ₹6.45",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["6.42"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SNLG44Gh/11.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹25.65 - ₹12.49",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["13.16"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/yx4Fqpgx/12.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract  ₹18.43 - ₹9.75",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["8.68"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SK9R0SWL/13.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹22.90 - ₹11.35",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["11.55"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/j2SRjtJF/14.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add  ₹7.19 + ₹3.84",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["10.03"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/VL5YQswS/15.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹30.58 - ₹14.73",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["15.85"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SxdFJwm0/16.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "₹17.39 - ₹8.27",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["9.12"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QC1vszfy/17.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹7.85 + ₹2.32",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["10.17"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Yqxy3YZY/18.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract  ₹28.75 - ₹15.98",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["12.77"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/xCH6bzLk/19.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹35.9 - ₹19.67",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["16.25"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/dVpRm0sG/20.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": ". Subtract  ₹42.68 - ₹21.35",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["21.33"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/4NnhLTFP/21.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹3.23 + ₹6.18",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["9.41"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/FF6KKkDb/22.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹4 .59 + ₹8.46" ,
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["13.05"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/L4GZbWKM/23.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹6.67 + ₹3.94",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["10.61"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/NjCtdWS6/24.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹5.38 + ₹7.12",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["12.50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/FzvXfmk4/25.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹2.7 4 + ₹9.89",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["12.63"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PqdDM8Gp/26.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹ 3.91 + ₹6.28",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["10.19"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/hGC0z0JP/27.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Subtract ₹15.74 - ₹8.26",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["7.48"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/L8xPN8mx/28.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": " Add ₹4.27 + ₹7.46",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["11.73"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/1X0n69Wc/29.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Add ₹5.55 + ₹8.66",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["14.21"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/k4sPtzQR/30.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Add and subtract money amounts "
+  }
+]
+  

@@ -1,0 +1,572 @@
+[
+    {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 7.245-4.681"
+    },
+
+    "answer": {
+      "ans": "2"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8s8cQ6Dk/1.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 12.987-9.432"
+    },
+
+    "answer": {
+      "ans": "4"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/5N3ykjTJ/2.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 5.768-3.213"
+    },
+
+    "answer": {
+      "ans": "3"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/pX9csnph/3.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting   8.927-5.431"
+    },
+
+    "answer": {
+      "ans": "4"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/c4ZMngfG/4.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 15.682-12.287"
+    },
+
+    "answer": {
+      "ans": "4"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/sgLhwvGX/5.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 9.346-5.987"
+    },
+
+    "answer": {
+      "ans": "3"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PfMv06v0/6.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 11.274-8.689"
+    },
+
+    "answer": {
+      "ans": "2"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/9MCFphb0/7.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 6.758-3.899"
+    },
+
+    "answer": {
+      "ans": "3"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/XqhbTSfw/8.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 5.648-3.782"
+    },
+
+    "answer": {
+      "ans": "2"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/k59mrybh/9.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 7.925-6.139"
+    },
+
+    "answer": {
+      "ans": "2"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qvGkvY4d/10.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 3.45 + 7.89"
+    },
+
+    "answer": {
+      "ans": "11"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/05CNc6S0/11.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 12.68 + 5.92"
+    },
+
+    "answer": {
+      "ans": "19"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/x8jnWRmy/12.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 9.73 + 6.25"
+    },
+
+    "answer": {
+      "ans": "16"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/5tqcbzbP/13.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 8.29 + 3.91"
+    },
+
+    "answer": {
+      "ans": "12"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/tgzcLHNw/14.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 4.56 + 2.89"
+    },
+
+    "answer": {
+      "ans": "8"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/sgd0x2nb/15.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 6.34 + 8.71"
+    },
+
+    "answer": {
+      "ans": "15"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/LhdvJyVj/16.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 7.98 + 3.25"
+    },
+
+    "answer": {
+      "ans": "11"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qM8W8nCp/17.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 9.12 + 1.75"
+    },
+
+    "answer": {
+      "ans": "11"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/wThVBY1B/18.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 5.89 + 2.63"
+    },
+
+    "answer": {
+      "ans": "9"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/D01qm1yN/19.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 3.21 + 4.98"
+    },
+
+    "answer": {
+      "ans": "8"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/tJdx9yBQ/20.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 15.426 - 7.891"
+    },
+
+    "answer": {
+      "ans": "7"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/mr0zMhqW/21.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 9.527 - 4.812"
+    },
+
+    "answer": {
+      "ans": "5"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/0jZyhpfF/22.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 18.689 - 12.374"
+    },
+
+    "answer": {
+      "ans": "7"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SNvy8Qt6/23.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 6.812 - 2.426"
+    },
+
+    "answer": {
+      "ans": "5"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/FHSQLySv/24.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 14.275 - 9.876"
+    },
+
+    "answer": {
+      "ans": "4"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/0yDLQ8g2/25.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the difference by rounding each number to the nearest whole number and then subtracting 5.891 - 3.426"
+    },
+
+    "answer": {
+      "ans": "3"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Px9gJNqJ/26.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 5.82 + 3.47"
+    },
+
+    "answer": {
+      "ans": "9"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/13dcLF78/27.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 2.36 + 4.98"
+    },
+
+    "answer": {
+      "ans": "7"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QtJ7xKmk/28.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 6.75 + 2.91"
+    },
+
+    "answer": {
+      "ans": "10"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Tw0yXM2t/29.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the sum by rounding each number to the nearest whole number and then adding 8.29 + 1.47"
+    },
+
+    "answer": {
+      "ans": "9"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/44Fdv1YH/30.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": "Estimation ",
+    "subTopic": "Estimate sums and differences of decimals"
+  }
+]

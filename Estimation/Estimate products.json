@@ -1,0 +1,574 @@
+[
+    {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 46x33"
+    },
+
+    "answer": {
+      "ans": "1500"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/xC2XqZ4G/1.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 62x17"
+    },
+
+    "answer": {
+      "ans": "1200"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/9FhHKhqY/2.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 89x15"
+    },
+
+    "answer": {
+      "ans": "1800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/76njyCz1/3.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 57x28"
+    },
+
+    "answer": {
+      "ans": "1800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/XNG4CL9t/4.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 41x56"
+    },
+
+    "answer": {
+      "ans": "2400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QdBy6Ydr/5.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 83x29"
+    },
+
+    "answer": {
+      "ans": "2400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/nV2c42zk/6.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 72x38"
+    },
+
+    "answer": {
+      "ans": "2800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/jqDtfbps/7.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 96x42"
+    },
+
+    "answer": {
+      "ans": "4000"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SQYbsG9R/8.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 58x67"
+    },
+
+    "answer": {
+      "ans": "4200"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/jSd8Ws1c/9.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply. 77x49"
+    },
+
+    "answer": {
+      "ans": "4000"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PxzZzDpw/10.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 73 x 28"
+    },
+
+    "answer": {
+      "ans": "2100"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/z3mDWKcm/11.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 55 x 42"
+    },
+
+    "answer": {
+      "ans": "2,400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/C55JDff4/12.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 68 x 57"
+    },
+
+    "answer": {
+      "ans": "4200"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/CxNBTTGq/13.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 81 x 49"
+    },
+
+    "answer": {
+      "ans": "4000"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Hx5TmXqh/14.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 36 x 65"
+    },
+
+    "answer": {
+      "ans": "2800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/yYxrSsdV/15.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 92 x 38"
+    },
+
+    "answer": {
+      "ans": "3600"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/J7HLHfhC/16.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 47 x 73"
+    },
+
+    "answer": {
+      "ans": "3500"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/fyNBLSLL/17.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 85 x 59"
+    },
+
+    "answer": {
+      "ans": "5400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/2ygjhYsV/18.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 68 x 92"
+    },
+
+    "answer": {
+      "ans": "6300"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/MpH2xNNL/19.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 74 x 63"
+    },
+
+    "answer": {
+      "ans": "4200"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/766TNxWV/20.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 56 x 78"
+    },
+
+    "answer": {
+      "ans": "4800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/1zxQHM7Y/21.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 63 x 92"
+    },
+
+    "answer": {
+      "ans": "5400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/xTMDdL1v/22.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 88 x 47"
+    },
+
+    "answer": {
+      "ans": "4500"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/bJhSKxrm/23.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 72 x 56"
+    },
+
+    "answer": {
+      "ans": "4200"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/W3NbGXhc/24.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 85 x 43"
+    },
+
+    "answer": {
+      "ans": "3600"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/437NBm1B/25.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 47 x 39"
+    },
+
+    "answer": {
+      "ans": "2000"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/DfYpK0Qq/26.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 56 x 38"
+    },
+
+    "answer": {
+      "ans": "2400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/bYGWr1w6/27.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 94 x 62"
+    },
+
+    "answer": {
+      "ans": "5400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/RZqHxCRn/28.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 77 x 29"
+    },
+
+    "answer": {
+      "ans": "2400"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/pTMhjftD/29.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  },
+  {
+    "patterns": "questionwithimage&inputbox",
+    "question": {
+      "text": "Estimate the product. Round each factor to the nearest ten, then multiply 61 x 83"
+    },
+
+    "answer": {
+      "ans": "4800"
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/bvkdqZ2d/30.png"
+    },
+
+    "disabled": false,
+    "audio": true,
+    "Class": "class 6",
+    "topic": " Estimation",
+    "subTopic": "Estimate products "
+  }
+  
+]

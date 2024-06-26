@@ -1,0 +1,754 @@
+[
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a shot glass?"
+        },
+        "answerType": {
+            "select": ["45 millilitres","45litres"]
+        },
+        "correctAnswer": [
+            "45 millilitres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "45 millilitres is a better estimate. 45 litres is too much."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a swimming pool?"
+        },
+        "answerType": {
+            "select": [
+                "500 litres",
+                "500 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "500 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": " 500 litres is a better estimate. 500 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a water bottle?"
+        },
+        "answerType": {
+            "select": [
+                
+                " 750 litres",
+                "750 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "750 millilitres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "750 millilitres is a better estimate. 750 litres is too much."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a cup of coffee?"
+        },
+        "answerType": {
+            "select": [
+                "300 millilitres",
+                " 300 litres"
+            ]
+        },
+        "correctAnswer": [
+            "300 millilitres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "300 millilitres is a better estimate. 300 litres is too much"
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a bathtub?"
+        },
+        "answerType": {
+            "select": [
+                
+                "200 millilitres",
+                "200 litres"
+            ]
+        },
+        "correctAnswer": [
+            "200 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "200 litres is a better estimate. 200 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a water tank?"
+        },
+        "answerType": {
+            "select": [
+                "1000 litres",
+                "1000 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "1000 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "1000 litres is a better estimate. 1000 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a bucket?"
+        },
+        "answerType": {
+            "select": [
+                "10 litres",
+                "10 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "10 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "10 litres is a better estimate. 10 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a swimming pool?"
+        },
+        "answerType": {
+            "select": [
+                
+                "20000 millilitres",
+                "20000 litres"
+            ]
+        },
+        "correctAnswer": [
+            "20000 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "20000 litres is a better estimate. 20000 millilitres is too small"
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a tank?"
+        },
+        "answerType": {
+            "select": [
+                "5000 litres",
+                "5000 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "5000 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "5000 litres is a better estimate. 5000 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the volume of a bottle of soft drink?"
+        },
+        "answerType": {
+            "select": [
+                "2 litres",
+                "2 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "2 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "2 litres is a better estimate. 2 millilitres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the weight of a pineapple?"
+        },
+        "answerType": {
+            "select": [
+                
+                "500 grams",
+                "2 kilograms"
+            ]
+        },
+        "correctAnswer": [
+            "2 kilograms"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilograms is a better estimate. 500 grams is too light."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the height of a building?"
+        },
+        "answerType": {
+            "select": [
+                "50 centimetres",
+                "25 meters "
+            ]
+        },
+        "correctAnswer": [
+            "25 meters "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": ""
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the capacity of a tank?"
+        },
+        "answerType": {
+            "select": [
+                "75 litres",
+                "500 millilitres"
+            ]
+        },
+        "correctAnswer": [
+            "75 litres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "litres is a better estimate. 500  millimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the distance travelled by a car?"
+        },
+        "answerType": {
+            "select": [
+                "800 meters",
+                "450 kilometres "
+            ]
+        },
+        "correctAnswer": [
+            "450 kilometres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilometres is a better estimate. 800 meters is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the length of a rope?"
+        },
+        "answerType": {
+            "select": [
+                "30 meters ",
+                "250 centimetres"
+            ]
+        },
+        "correctAnswer": [
+            "30 meters "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Meters is a better estimate. 250 centimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the weight of a suitcase?"
+        },
+        "answerType": {
+            "select": [
+                "10 kilograms",
+                "750 grams"
+            ]
+        },
+        "correctAnswer": [
+            "10 kilograms"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilograms is a better estimate. 750 grams is too light."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the height of a tree?"
+        },
+        "answerType": {
+            "select": [
+                "300 centimetres",
+                "12 meters "
+            ]
+        },
+        "correctAnswer": [
+            "12 meters "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Meters is a better estimate. 300 centimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the capacity of a jug?"
+        },
+        "answerType": {
+            "select": [
+                "5 litres ",
+                "300  millimetres"
+            ]
+        },
+        "correctAnswer": [
+            "5 litres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "litres is a better estimate. 300  millimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the distance travelled by a bicycle?"
+        },
+        "answerType": {
+            "select": [
+                "250 meters",
+                "15 kilometres "
+            ]
+        },
+        "correctAnswer": [
+            "15 kilometres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilometres is a better estimate. 250 meters is too small"
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the length of a garden hose"
+        },
+        "answerType": {
+            "select": [
+                "20 meters",
+                "1000 centimetres"
+            ]
+        },
+        "correctAnswer": [
+            "15 kilometres"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilometres is a better estimate. 250 meters is too small"
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the weight of a bag of rice?"
+        },
+        "answerType": {
+            "select": [
+                "300 grams",
+                "8 kilograms "
+            ]
+        },
+        "correctAnswer": [
+            "8 kilograms "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Kilograms is a better estimate. 300 grams is too light."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the height of a pole?"
+        },
+        "answerType": {
+            "select": [
+                "20 meters ",
+                "80 centimetres"
+            ]
+        },
+        "correctAnswer": [
+            "20 meters"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "Meters is a better estimate. 80 centimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the capacity of a bottle?"
+        },
+        "answerType": {
+            "select": [
+                "150  millimetres",
+                "2 litres "
+            ]
+        },
+        "correctAnswer": [
+            "2 litres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "litres is a better estimate. 150  millimetres is too small."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the weight of a feather?"
+        },
+        "answerType": {
+            "select": [
+                "5 grams",
+                "5 kilograms"
+            ]
+        },
+        "correctAnswer": [
+            "5 grams"
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "5 grams is a better estimate. 5 kilograms is too heavy."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the capacity of a coffee cup?"
+        },
+        "answerType": {
+            "select": [
+                "250 litres",
+                "250  millimetres "
+            ]
+        },
+        "correctAnswer": [
+            "250  millimetres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "250  millimetres is a better estimate. 250 litres is too large."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the height of a table?"
+        },
+        "answerType": {
+            "select": [
+                "75 centimetres",
+                "75 meters"
+            ]
+        },
+        "correctAnswer": [
+            "75 centimetres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "75 centimetres is a better estimate. 75 meters is too tall."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the length of a pencil?"
+        },
+        "answerType": {
+            "select": [
+                "15 centimetres ",
+                "15 meters"
+            ]
+        },
+        "correctAnswer": [
+            "15 centimetres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "15 centimetres is a better estimate. 15 meters is too long"
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the capacity of a water bottle?"
+        },
+        "answerType": {
+            "select": [
+                "500 litres",
+                "500 millimetres "
+            ]
+        },
+        "correctAnswer": [
+            "500 millimetres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "500 millimetres is a better estimate. 500 litres is too large."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the weight of a book?"
+        },
+        "answerType": {
+            "select": [
+                "500 kilograms",
+                "500 grams "
+            ]
+        },
+        "correctAnswer": [
+            "500 grams "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "500 grams is a better estimate. 500 kilograms is too heavy."
+            }
+        }
+    },
+    {
+        "pattern": "Identify factors",
+        "question": {
+            "text": "Which is a better estimate for the height of a chair?"
+        },
+        "answerType": {
+            "select": [
+                "80 meters",
+                "80 centimetres "
+            ]
+        },
+        "correctAnswer": [
+            "80 centimetres "
+        ],
+        "explanation": {
+            "correctanswerexp": "Yah you have chosen correctly",
+            "wronganswerexp": "Sorry, incorrect...",
+            "review": {
+                "text": "The correct answer is: "
+            },
+            "explanation1": {
+                "text": "80 centimetres is a better estimate. 80 meters is too tall."
+            }
+        }
+    }
+
+]

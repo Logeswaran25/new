@@ -1,0 +1,664 @@
+[
+    {
+  "type": "wordProblemWithInputBox",
+  "question": {
+    "text": "Sarah earns ₹15 per hour working as a tutor. How much money will she earn if she works for 8 hours? ",
+    "frontunit": "₹",
+    "unit": "",
+
+    "answerType": {
+      "type": "inputBox"
+    }
+  },
+  "answer": {
+    "ans": ["120"]
+  },
+  "explanation": {
+    "imageUrl": "https://i.postimg.cc/7h85mcmb/1.png"
+  },
+  "disabled": false,
+  "audio": true,
+  "topic": "Money",
+  "subTopic": "Multiply money:word problems"
+},
+{
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Alex mows lawns for ₹20 per lawn. If he mows 6 lawns, how much money will he earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["120"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/DwB5HdV7/2.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Maya delivers newspapers for ₹5 each. If she delivers newspapers to 40 houses, how much money will she earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["200"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/zf4wYxxY/3.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": " ",
+      "frontunit": "₹",
+      "unit": "Jack is paid ₹12 for each item he assembles. If he assembles 25 items, how much money will he earn? ",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["300"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/zv8gq6W6/4.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Lisa babysits for ₹10 per hour. If she babysits for 5 hours, how much money will she earn? ₹ ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["50"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8zjrkhJp/5.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Michael is paid ₹18 per hour for gardening. If he works for 9 hours, how much money will he earn?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["162"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Wp8DM90p/6.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Emily earns ₹25 for every dog she walks. If she walks 4 dogs, how much money will she earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["100"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/QtdY44Yg/7.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "David earns ₹8 for every mile he drives as a delivery person. If he drives 15 miles, how much money will he earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["120"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/W1CJfXpR/8.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Sophie earns ₹50 per piano lesson she teaches. If she teaches 3 lessons, how much money will she earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["150"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qM9kPYKG/9.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Ethan gets ₹30 for every book he sells. If he sells 10 books, how much money will he earn? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["300"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/nLTfhwXg/10.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "John earns ₹25 per hour working as a waiter. How much money will he earn if he works for 10 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["250"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/FFdStPdN/11.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Emma earns ₹30 per hour working as a receptionist. How much money will she earn if she works for 7 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["210"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/X71tZYNw/12.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Alex earns ₹18 per hour working as a delivery person. How much money will he earn if he works for 9 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["162"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/T2FsjYWG/13.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Mia earns ₹22 per hour working as a cashier. How much money will she earn if she works for 5 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["110"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/cCyQHjrq/14.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Daniel earns ₹35 per hour working as a mechanic. How much money will he earn if he works for 8 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["280"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/6pgTtZ8g/15.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Lily earns ₹28 per hour working as a tutor. How much money will she earn if she works for 6 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["168"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/PxR2X2kY/16.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },{
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": ". Ethan earns ₹24 per hour working as a lifeguard. How much money will he earn if he works for 7 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["168"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/fRPPTzjJ/17.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  }
+  ,{
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Olivia earns ₹19 per hour working as a librarian. How much money will she earn if she works for 9 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["171"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/SxLXmRpG/18.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  }
+  ,{
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Noah earns ₹26 per hour working as a landscaper. How much money will he earn if he works for 8 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["208"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/Pryx7cb6/19.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  }
+  ,{
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Ava earns ₹32 per hour working as a tutor. How much money will she earn if she works for 5 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["160"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/nVYcs5WH/20.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "William earns ₹21 per hour working as a cashier. How much money will he earn if he works for 10 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["210"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/4NxZY3t5/21.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Sophia earns ₹29 per hour working as a receptionist. How much money will she earn if she works for 6 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["174"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/bwS7nSvQ/22.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "James earns ₹27 per hour working as a delivery person. How much money will he earn if he works for 7 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["189"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/5tRpSnky/23.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Emily earns ₹25 per hour working as a babysitter. How much money will she earn if she works for 9 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["225"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8z3ry9D2/24.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Benjamin earns ₹30 per hour working as a waiter. How much money will he earn if he works for 6 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["180"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/HkfV0M9H/25.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Harper earns ₹22 per hour working as a tutor. How much money will she earn if she works for 8 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["176"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/wMZpKXvj/26.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Jackson earns ₹26 per hour working as a lifeguard. How much money will he earn if he works for 9 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["234"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/vTQzQk4P/27.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Grace earns ₹28 per hour working as a cashier. How much money will she earn if she works for 5 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["140"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/8P8Fr9Nc/28.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Aiden earns ₹24 per hour working as a landscaper. How much money will he earn if he works for 10 hours? ",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["240"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/mrcRjZSs/29.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  },
+  {
+    "type": "wordProblemWithInputBox",
+    "question": {
+      "text": "Liam earns ₹40 per hour working as a babysitter. How much money will he earn if he works for 5 hours?",
+      "frontunit": "₹",
+      "unit": "",
+  
+      "answerType": {
+        "type": "inputBox"
+      }
+    },
+    "answer": {
+      "ans": ["200"]
+    },
+    "explanation": {
+      "imageUrl": "https://i.postimg.cc/qBLpLFdj/30.png"
+    },
+    "disabled": false,
+    "audio": true,
+    "topic": "Money",
+    "subTopic": "Multiply money:word problems"
+  }
+]
+
+  
+  

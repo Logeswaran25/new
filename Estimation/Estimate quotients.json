@@ -1,0 +1,1213 @@
+[
+    {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 636÷28?25"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 636 ÷ 28 ? 25"
+      },
+      "explanation2":{
+        "text":" To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 636 to 640 and 28 to 30:"
+      },
+      "explanation4": {
+        "text": "640 ÷ 30 ?25"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "640 ÷ 30 = 21. 3"
+      },
+      "explanation7": {
+        "text": "So 21.3? 25"
+      },
+      "explanation8": {
+        "text": "Since 25 is greater than 21.3, the correct sign to make the statement true is >."
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 749÷31? 26"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 749÷31?26"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 749 to 750 and 31 to 30:"
+      },
+      "explanation4": {
+        "text": "750÷30?26"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "750÷30=25"
+      },
+      "explanation7": {
+        "text": "So, 25?26"
+      },
+      "explanation8": {
+        "text": "Since 25 is less than 26, the correct sign to make the statement true is <."
+      }
+
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 563÷42?15"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 563÷42?15"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 563 to 560 and 42 to 40:"
+      },
+      "explanation4": {
+        "text": "560÷40?15"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "560÷40=14"
+      },
+      "explanation7": {
+        "text": "So, 14?15"
+      },
+      "explanation8": {
+        "text": "Since 15 is greater than 14, the correct sign to make the statement true is >."
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 845÷39?20"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 845÷39?20"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 845 to 840 and 39 to 40:"
+      },
+      "explanation4": {
+        "text": "840÷40?20"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "840÷40=21"
+      },
+      "explanation7": {
+        "text": "So, 21?20"
+      },
+      "explanation8": {
+        "text": "Since 21 is greater than 20, the correct sign to make the statement true is >"
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 927÷33?30"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 927÷33?30"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 927 to 930 and 33 to 30:"
+      },
+      "explanation4": {
+        "text": "930÷30?30"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "930÷30=31"
+      },
+      "explanation7": {
+        "text": "So, 31?30"
+      },
+      "explanation8": {
+        "text": "Since 31 is greater than 30, the correct sign to make the statement true is >"
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 772÷28?25"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 772÷28?25"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 772 to 770 and 28 to 30:"
+      },
+      "explanation4": {
+        "text": "770÷30?25"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "770÷30=25.6"
+      },
+      "explanation7": {
+        "text": "So, 25.6?25"
+      },
+      "explanation8": {
+        "text": "Since 25 is less than 25.6, the correct sign to make the statement true is <,"
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 683÷29?20"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 683÷29?20"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 683 to 690 and 29 to 30:"
+      },
+      "explanation4": {
+        "text": "690÷30?20"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "690÷30=23"
+      },
+      "explanation7": {
+        "text": "So, 23?20"
+      },
+      "explanation8": {
+        "text": "Since 23 is greater than 20, the correct sign to make the statement true is >"
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 524÷32?15"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": " Given: 524÷32?15"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 524 to 520 and 32 to 30:"
+      },
+      "explanation4": {
+        "text": "520÷30?15"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "520÷30=17.3330"
+      },
+      "explanation7": {
+        "text": "So, 17.33?15"
+      },
+      "explanation8": {
+        "text": "Since 17.33 is greater than 15, the correct sign to make the statement true is >. "
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 789÷41?25"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 789÷41?25"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 789 to 800 and 41 to 40:"
+      },
+      "explanation4": {
+        "text": "800÷40?25"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "800÷40=20"
+      },
+      "explanation7": {
+        "text": "So, 20?25"
+      },
+      "explanation8": {
+        "text": "Since 20 is less than 25, the correct sign to make the statement true is <."
+      }
+      
+    }
+  },
+  
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 677÷37?30"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 677÷37?30"
+      },
+      "explanation2": {
+        "text": "To estimate, we can use compatible numbers:"
+      },
+      "explanation3": {
+        "text": "Round 677 to 680 and 37 to 40:"
+      },
+      "explanation4": {
+        "text": "680÷40?30"
+      },
+      "explanation5": {
+        "text": "Now, divide:"
+      },
+      "explanation6": {
+        "text": "680÷40=17"
+      },
+      "explanation7": {
+        "text": "So, 17?30"
+      },
+      "explanation8": {
+        "text": "Since 17 is less than 30, the correct sign to make the statement true is <, "
+      }
+      
+      
+    }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 156 ÷ 13 ? 12"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 156 ÷ 13 ? 12"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 156 to 160 and 13 to 10:"
+      },
+      "explanation3": {
+        "text": "160 ÷ 10 ? 12"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "160 ÷ 10 = 16"
+      },
+      "explanation6": {
+        "text": "So, 16 ? 12 "
+      },
+      "explanation7": {
+        "text": "Since 16 is greater than 12, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 357 ÷ 21 ? 15"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 357 ÷ 21 ? 15"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 357 to 360 and 21 to 20:"
+      },
+      "explanation3": {
+        "text": "360 ÷ 20 ? 15"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "360 ÷ 20 = 18"
+      },
+      "explanation6": {
+        "text": "So,So, 18 ? 15 "
+      },
+      "explanation7": {
+        "text": "Since 18 is greater than 15, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 480 ÷ 30 ? 16"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 480 ÷ 30 ? 16"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 480 to 500 and 30 to 20: "
+      },
+      "explanation3": {
+        "text": "500 ÷ 20 ? 16"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "500 ÷ 20 = 25"
+      },
+      "explanation6": {
+        "text": "So, 25 ? 16"
+      },
+      "explanation7": {
+        "text": "Since 25 is greater than 16, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 621 ÷ 39 ? 17"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 621 ÷ 39 ? 17 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 621 to 620 and 39 to 40: "
+      },
+      "explanation3": {
+        "text": "620 ÷ 40 ? 17"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "620 ÷ 40 = 15.5"
+      },
+      "explanation6": {
+        "text": "So, 15.5 ? 17 "
+      },
+      "explanation7": {
+        "text": "Since 15.5 is less than 17, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 892 ÷ 49 ? 20"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 892 ÷ 49 ? 20"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 892 to 900 and 49 to 50:"
+      },
+      "explanation3": {
+        "text": "900 ÷ 50 ? 20"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "900 ÷ 50 = 18"
+      },
+      "explanation6": {
+        "text": "So, So, 18 ? 20 "
+      },
+      "explanation7": {
+        "text": "Since 18 is less than 20, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 426 ÷ 38 ? 11"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 426 ÷ 38 ? 11 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 426 to 430 and 38 to 40:"
+      },
+      "explanation3": {
+        "text": "430 ÷ 40 ? 11"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "430 ÷ 40 = 10.75"
+      },
+      "explanation6": {
+        "text": "So,10.75 ? 11 "
+      },
+      "explanation7": {
+        "text": "Since 10.75 is less than 11, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 734 ÷ 42 ? 18"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given:734 ÷ 42 ? 18"
+      },
+      
+     "explanation2": {
+        "text": "To estimate, round 734 to 740 and 42 to 40:"
+      },
+      "explanation3": {
+        "text": "740 ÷ 40 ? 18"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "740 ÷ 40 = 18.5"
+      },
+      "explanation6": {
+        "text": "So, So, 18.5 ? 18"
+      },
+      "explanation7": {
+        "text": "Since 18.5 is greater than 18, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 573 ÷ 33 ? 14"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given:573 ÷ 33 ? 14"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 573 to 570 and 33 to 30:"
+      },
+      "explanation3": {
+        "text": "570 ÷ 30 ? 14"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "To estimate, round 573 to 570 and 33 to 30:"
+      },
+      "explanation6": {
+        "text": "So, 19 ? 14"
+      },
+      "explanation7": {
+        "text": "Since 19 is greater than 14, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 624 ÷ 36 ? 15"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given:624 ÷ 36 ? 15 "
+      },
+      
+     "explanation2": {
+        "text": "To estimate, round 624 to 620 and 36 to 40:"
+      },
+      "explanation3": {
+        "text": "620 ÷ 40 ? 15"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "620 ÷ 40 = 15.5"
+      },
+      "explanation6": {
+        "text": "So, 15.5 ? 15"
+      },
+      "explanation7": {
+        "text": "Since 15.5 is greater than 15, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Which sign makes the statement true? 398 ÷ 24 ? 17"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given:398 ÷ 24 ? 17"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 398 to 400 and 24 to 20:"
+      },
+      "explanation3": {
+        "text": "400 ÷ 20 ? 17"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "400 ÷ 20 = 20"
+      },
+      "explanation6": {
+        "text": "So, 20 ? 17 "
+      },
+      "explanation7": {
+        "text": "Since 20 is greater than 17, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 821 ÷ 43 ? 19"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: : 821 ÷ 43 ? 19 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 821 to 820 and 43 to 40:"
+      },
+      "explanation3": {
+        "text": "820 ÷ 40 ? 19"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "820 ÷ 40 = 20.5"
+      },
+      "explanation6": {
+        "text": "So, 20.5 ? 19"
+      },
+      "explanation7": {
+        "text": "Since 20.5 is greater than 19, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 712 ÷ 45 ? 14"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 712 ÷ 45 ? 14 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 712 to 710 and 45 to 50:"
+      },
+      "explanation3": {
+        "text": "710 ÷ 50 ? 14"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "710 ÷ 50 = 14.2"
+      },
+      "explanation6": {
+        "text": "So, 14.2 ? 14 "
+      },
+      "explanation7": {
+        "text": "Since 14.2 is greater than 14, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 567 ÷ 32 ? 16"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 567 ÷ 32 ? 16 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 567 to 570 and 32 to 30:"
+      },
+      "explanation3": {
+        "text": "570 ÷ 30 ? 16"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "570 ÷ 30 = 19"
+      },
+      "explanation6": {
+        "text": "So, 19 ? 16"
+      },
+      "explanation7": {
+        "text": "Since 19 is greater than 16, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 894 ÷ 46 ? 18"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 894 ÷ 46 ? 18"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 894 to 890 and 46 to 50:"
+      },
+      "explanation3": {
+        "text": "890 ÷ 50 ? 18"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "890 ÷ 50 = 17.8"
+      },
+      "explanation6": {
+        "text": "So, 17.8 ? 18"
+      },
+      "explanation7": {
+        "text": "Since 17.8 is less than 18, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 649 ÷ 38 ? 17"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 649 ÷ 38 ? 17 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 649 to 650 and 38 to 40:"
+      },
+      "explanation3": {
+        "text": "650 ÷ 40 ? 17"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "650 ÷ 40 = 16.25"
+      },
+      "explanation6": {
+        "text": "So, 16.25 ? 17"
+      },
+      "explanation7": {
+        "text": "Since 16.25 is less than 17, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 763 ÷ 42 ? 18"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 763 ÷ 42 ? 18"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 763 to 760 and 42 to 40:"
+      },
+      "explanation3": {
+        "text": "760 ÷ 40 ? 18"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "760 ÷ 40 = 19"
+      },
+      "explanation6": {
+        "text": "So, 19 ? 18"
+      },
+      "explanation7": {
+        "text": "Since 19 is greater than 18, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 509 ÷ 35 ? 16"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 509 ÷ 35 ? 16 "
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 509 to 510 and 35 to 40:"
+      },
+      "explanation3": {
+        "text": "510 ÷ 40 ? 16"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "510 ÷ 40 = 12.75"
+      },
+      "explanation6": {
+        "text": "So, 12.75 ? 16"
+      },
+      "explanation7": {
+        "text": "Since 12.75 is less than 16, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 738 ÷ 43 ? 17"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": [">"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: 738 ÷ 43 ? 17"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 738 to 740 and 43 to 40:"
+      },
+      "explanation3": {
+        "text": "740 ÷ 40 ? 17"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "740 ÷ 40 = 18.5"
+      },
+      "explanation6": {
+        "text": "So, 18.5 ? 17 "
+      },
+      "explanation7": {
+        "text": "Since 18.5 is greater than 17, the correct sign to make the statement true is >."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 672 ÷ 49 ? 15"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given: "
+      },
+      
+      "explanation2": {
+        "text": "672 ÷ 49 ? 15"
+      },
+      "explanation3": {
+        "text": ""
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "670 ÷ 50 = 13.4"
+      },
+      "explanation6": {
+        "text": "So, 13.4 ? 15 "
+      },
+      "explanation7": {
+        "text": "Since 13.4 is less than 15, the correct sign to make the statement true is <."
+      }
+      }
+  },
+  {
+    "pattern": "Identify factors",
+    "question": {
+      "text": "Estimate. Which sign makes the statement true? 701 ÷ 46 ? 16"
+    },
+    "answerType": {
+      "select": ["<", ">"]
+    },
+    "correctAnswer": ["<"],
+    "explanation": {
+      "correctanswerexp": "Yah you have chosen correctly",
+      "wronganswerexp": "Sorry, incorrect...",
+      "review": {
+        "text": "The correct answer is: "
+      },
+      "explanation1": {
+        "text": "Given:701 ÷ 46 ? 16"
+      },
+      
+      "explanation2": {
+        "text": "To estimate, round 701 to 700 and 46 to 50:"
+      },
+      "explanation3": {
+        "text": "700 ÷ 50 ? 16"
+      },
+      "explanation4": {
+        "text": "Now, divide:"
+      },
+      "explanation5": {
+        "text": "700 ÷ 50 = 14"
+      },
+      "explanation6": {
+        "text": "So, 14 ? 16 "
+      },
+      "explanation7": {
+        "text": "Since 14 is less than 16, the correct sign to make the statement true is <."
+      }
+      }
+  }  
+  ]
